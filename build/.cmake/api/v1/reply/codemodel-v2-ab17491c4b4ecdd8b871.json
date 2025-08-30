@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "RBTree",
+					"jsonFile" : "directory-RBTree-4f75e0b0fa9332791883.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "RBTree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "educationalManagementSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "RBTree::@78aaf21718ca4614ba2d",
+					"jsonFile" : "target-RBTree-dd16920ac4db3eac0647.json",
+					"name" : "RBTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "educationalManagementSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-educationalManagementSystem-ae78dded70a6911b0669.json",
+					"name" : "educationalManagementSystem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bai-yu/c++project/\u6559\u52a1\u7ba1\u7406\u7cfb\u7edf1.0/build",
+		"source" : "/home/bai-yu/c++project/\u6559\u52a1\u7ba1\u7406\u7cfb\u7edf1.0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
